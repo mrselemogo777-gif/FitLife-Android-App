@@ -53,10 +53,9 @@ The application follows a **modified MVC architecture** for maintainability and 
 
 
 <img width="571" height="868" alt="homescreen1" src="https://github.com/user-attachments/assets/4905f3ab-471f-46c6-94de-a54a75cf123d" />
-
+<img width="514" height="880" alt="loginscreen2" src="https://github.com/user-attachments/assets/03b7bf0b-9abb-4715-9b06-5a8ee32ee907" />
 <img width="481" height="865" alt="registerscreen" src="https://github.com/user-attachments/assets/b8724893-4bcd-4018-9f60-c4f9f9677558" />
 <img width="544" height="814" alt="dasboard with exercise" src="https://github.com/user-attachments/assets/5d4fe347-54a2-4772-911d-e1f3fa16109f" />
-<img width="514" height="880" alt="loginscreen2" src="https://github.com/user-attachments/assets/03b7bf0b-9abb-4715-9b06-5a8ee32ee907" />
 <img width="510" height="842" alt="dashboard with complete and sms" src="https://github.com/user-attachments/assets/a7bb94f1-dc4f-4456-966b-be96c0534ad8" />
 <img width="529" height="839" alt="sms dashoboard" src="https://github.com/user-attachments/assets/4504d631-66f2-41cc-a453-aceeb4040a54" />
 <img width="517" height="849" alt="sms dialog" src="https://github.com/user-attachments/assets/8b1c673b-2f39-4742-b183-3c929893ce58" />
