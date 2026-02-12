@@ -8,7 +8,9 @@ FitLife is a native Android fitness application developed using Java and SQLite.
 The app enables users to register, log in, create and manage workouts, track completion status, and delegate workout plans via SMS.
 
 Developed as part of Advanced Android Mobile Development
+##  Demo Video
 
+[![Watch the Demo](https://img.youtube.com/vi/AMyVx39CwoM/0.jpg)](https://www.youtube.com/watch?v=AMyVx39CwoM)
 ---
 
 ## Project Overview
