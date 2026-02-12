@@ -1,75 +1,54 @@
-# =========================
-# Android / Gradle
-# =========================
-
-.gradle/
-build/
-app/build/
-*/build/
-
-local.properties
-
-# =========================
-# Android Studio / IntelliJ
-# =========================
-
-.idea/
-*.iml
-*.ipr
-*.iws
-out/
-
-# =========================
-# Generated APK / AAB
-# =========================
-
+# Built application files
 *.apk
 *.aab
 *.ap_
 
-# =========================
-# Logs
-# =========================
+# Files for the ART/Dalvik VM
+*.dex
 
-*.log
+# Java class files
+*.class
 
-# =========================
-# OS Generated Files
-# =========================
+# Generated files
+bin/
+gen/
+out/
 
-.DS_Store
-Thumbs.db
+# Gradle files
+.gradle/
+build/
+app/build/
 
-# =========================
-# Keystore Files (IMPORTANT)
-# =========================
+# Local configuration file (SDK path, etc.)
+local.properties
 
-*.jks
-*.keystore
-
-# =========================
-# NDK / C++
-# =========================
-
-.externalNativeBuild/
-.cxx/
-obj/
-
-# =========================
-# Navigation & Studio Temp
-# =========================
-
+# Android Studio navigation editor temp files
 .navigation/
 captures/
 
-# =========================
-# Kotlin (Safe even if Java project)
-# =========================
+# Crashlytics configuations
+crashlytics.properties
+fabric.properties
 
-*.kotlin_module
+# IntelliJ / Android Studio files
+*.iml
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
 
-# =========================
-# Firebase (if added later)
-# =========================
+# OS generated files
+.DS_Store
+Thumbs.db
 
+# External native build folders
+.externalNativeBuild/
+.cxx/
+
+# Keystore files (important)
+*.jks
+*.keystore
+
+# Google Services (Firebase config)
 google-services.json
